@@ -1,0 +1,5 @@
+@Country: Afghanistan Predicted Hits: 300
+@Country: Israel Predicted Hits: 20,000
+@Country: Iran Predicted Hits: 700
+
+@Country: UK Predicted Hits: 70
